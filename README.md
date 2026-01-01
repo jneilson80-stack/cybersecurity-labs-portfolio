@@ -65,7 +65,7 @@ Challenge Rooms
 - Invite Only — Guided challenge focused on enumeration, access discovery, and misconfigurations.
 - Trooper — Realistic scenario emphasizing recon, exploitation, and privilege escalation.
 
-- 🟩 HackTheBox Labs
+🟩 HackTheBox Labs
 Operating Systems & Scripting
 - Linux Fundamentals — Linux basics with a security focus: permissions, processes, services.
 - Intro to Bash Scripting — Variables, loops, conditionals, and automation for enumeration tasks.
