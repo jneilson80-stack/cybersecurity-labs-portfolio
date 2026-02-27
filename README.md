@@ -8,24 +8,39 @@
 ![Last Updated](https://img.shields.io/badge/Updated-Jan_2026-orange)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jneilson80-stack.cybersecurity-labs-portfolio)
 
-Learning journey - Masters in Cybersecurity
-A curated collection of hands‑on cybersecurity labs completed across TryHackMe and HackTheBox, covering Linux and Windows fundamentals, Active Directory, networking, scripting, threat intelligence, and early‑stage penetration testing workflows. This portfolio serves as a permanent record of practical skills developed through structured, scenario‑based learning.
+### 🎓 Learning Journey — Master’s in Cybersecurity
+A curated collection of hands‑on cybersecurity labs completed as part of a Master’s in Cybersecurity program. This portfolio spans Linux and Windows fundamentals, Active Directory, networking, scripting, threat intelligence, cryptography, and early‑stage penetration testing. It serves as a permanent record of practical skills developed through structured, scenario‑based learning.
 🧩 Table of Contents
 - TryHackMe Labs
-- Operating Systems & Scripting
+- Cryptography & Hashing
+- Wireless Security
+- Operating Systems & Scripting (THM)
 - Windows & Active Directory
 - Networking & Pentesting
 - Threat Intelligence
 - Challenge Rooms
 - HackTheBox Labs
-- Operating Systems & Scripting
+- Learning Foundations
+- Networking & Infrastructure
+- Pentesting & Vulnerability Management
+- Incident Response
+- Operating Systems & Scripting (HTB)
 - Web & Pentesting
 - Windows & Active Directory
 - Skills Gained
 - Next Steps
 
+
 🟦 TryHackMe Labs
-Operating Systems & Scripting
+Cryptography & Hashing
+- Encryption – Crypto 101 — Symmetric/asymmetric encryption, key management, and cryptographic applications.
+- Hashing – Crypto 101 — Hash functions, integrity verification, collision concepts, and password hashing.
+
+Wireless Security
+- WiFi Hacking 101 — Wireless security fundamentals including Wi Fi encryption standards, handshake capture, deauthentication attacks, and password cracking workflows.
+- Mobile Malware Analysis – Identifying, analyzing, and classifying malicious mobile applications using static and behavioral techniques to understand capabilities, indicators, and defensive controls.
+
+Operating Systems & Scripting (THM)
 - Operating System Security — Core OS security concepts including permissions, user/group management, secure configurations, patching, and hardening.
 - Linux Fundamentals 1 — Filesystem navigation, directory structure, essential commands, and shell basics.
 - Linux Fundamentals 2 — Permissions, users/groups, package management, processes, and service management.
@@ -40,6 +55,17 @@ Windows & Active Directory
 - Active Directory Basics — Domains, forests, OUs, GPOs, authentication, and common AD attack surfaces.
 
 Networking & Pentesting
+- What Is Networking — Core networking concepts including devices, topologies, protocols, and communication models.
+- Offensive Security Intro — Overview of offensive security principles, attacker mindset, and ethical exploitation workflows.
+- Defensive Security Intro — Foundations of defensive operations including monitoring, detection, and incident response.
+- Introduction to Networking — Networking fundamentals covering IP addressing, routing, switching, and communication flows.
+- Intro to LAN — Local network architecture, broadcast domains, switching behavior, and segmentation.
+- OSI Model — Layered communication model, data encapsulation, and protocol responsibilities.
+- Packets & Frames — Structure of packets and frames, encapsulation, and network data flow analysis.
+- Search Skills — Practical OSINT and search methodologies for technical investigations.
+- Networking Concepts — Key networking principles including addressing, routing, switching, and traffic flow.
+- Networking Core Protocols — Deep dive into essential protocols such as ARP, DHCP, DNS, HTTP, and ICMP.
+- Networking Secure Protocols — Secure communication standards including TLS, SSH, HTTPS, and VPN fundamentals.
 - Nmap Live Host Discovery — ARP scans, ICMP probes, TCP/UDP discovery, and evasion techniques.
 - Metasploit: Introduction — Framework basics, modules, interfaces, and exploitation workflow.
 - Metasploit Exploitation — Exploit selection, payload configuration, shells, and post‑exploitation.
@@ -66,7 +92,23 @@ Challenge Rooms
 - Trooper — Realistic scenario emphasizing recon, exploitation, and privilege escalation.
 
 🟩 HackTheBox Labs
-Operating Systems & Scripting
+Learning Foundations
+- Learning Process (3 hours) — Structured learning methodology emphasizing mindset, strategy, and continuous improvement.
+- Introduction to Information Security (2 hours) — Core cybersecurity principles, threat categories, and security domains.
+- Getting Started (8 hours) — Advanced learning workflow covering documentation, organization, focus, and frustration management.
+
+Networking & Infrastructure
+- Network Foundations (4 hours) — Essential networking concepts including addressing, routing, switching, and protocols.
+- Introduction to Networking (3 hours) — Practical networking fundamentals for IT and security professionals.
+- Setting Up (2 hours) — Virtual machine configuration, containerization, VPS setup, and secure lab environment preparation.
+
+Pentesting & Vulnerability Management
+- Vulnerability Assessment (2 hours) — Vulnerability scanning, prioritization, and security posture evaluation.
+- Introduction to Penetration Testing (4 hours) — Pentesting methodologies, ethics, compliance, and engagement structure.
+Incident Response
+- Incident Handling Process (3 hours) — End‑to‑end incident response lifecycle including identification, containment, eradication, and recovery
+
+Operating Systems & Scripting (HTB)
 - Linux Fundamentals — Linux basics with a security focus: permissions, processes, services.
 - Intro to Bash Scripting — Variables, loops, conditionals, and automation for enumeration tasks.
 - Introduction to Python 3 — Python scripting for automation, networking, and security tooling.
@@ -106,4 +148,3 @@ Scripting & Automation
 - Bash scripting
 - Python scripting
 - Automation for recon & analysis
-
