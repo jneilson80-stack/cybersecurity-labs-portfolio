@@ -105,6 +105,7 @@ Networking & Infrastructure
 Pentesting & Vulnerability Management
 - Vulnerability Assessment (2 hours) — Vulnerability scanning, prioritization, and security posture evaluation.
 - Introduction to Penetration Testing (4 hours) — Pentesting methodologies, ethics, compliance, and engagement structure.
+
 Incident Response
 - Incident Handling Process (3 hours) — End‑to‑end incident response lifecycle including identification, containment, eradication, and recovery
 
